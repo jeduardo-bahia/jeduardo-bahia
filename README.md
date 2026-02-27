@@ -1,16 +1,49 @@
-## Hi there 👋
+<div align="center">
+  <img src="./banner_perfil.png" alt="Banner Jhonanthan Bahia" width="100%"/>
+</div>
 
-<!--
-**jeduardo-bahia/jeduardo-bahia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou o Jhonanthan Bahia 👋
 
-Here are some ideas to get you started:
+> * Apaixonado por Inteligência Artificial, automação e vivendo o mundo de Python com IA.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Sobre mim
+
+Formado em **Bacharelado em Sistemas de Informação** com **MBA em Gestão de Projetos**, explorando o universo de Dados e IA com Python
+
+Acredito que bons projetos nascem da combinação entre **arquitetura limpa**, **código legível** e **propósito real** — e é isso que busco em tudo que construo.
+
+---
+
+## 🚀 Projeto em destaque
+
+### 🎙️ [Vivian AI](https://github.com/jeduardo.bahia/Vivian-Ai)
+> Assistente virtual por voz — modular, open-source e com personalidade própria.
+
+Vivian foi projetada para ser **direta, objetiva e natural**. Integra:
+- 🧩 **Ollama** — LLM local para processamento de linguagem
+- 🗣️ **ElevenLabs + Edge TTS** — síntese de voz híbrida
+- 🏗️ Arquitetura modular pensada para **colaboração e evolução contínua**
+
+---
+
+## 🛠️ Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📬 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonanthanbahia/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeduardo.bahia@gmail.com)
+
+---
+
+<div align="center">
+  <sub>Construindo um projeto de cada vez. 🛠️</sub>
+</div>
