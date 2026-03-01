@@ -10,9 +10,7 @@
 
 ## 🧠 Sobre mim
 
-Formado em **Bacharelado em Sistemas de Informação** com **MBA em Gestão de Projetos**, explorando o universo de Dados e IA com Python
-
-Acredito que bons projetos nascem da combinação entre **arquitetura limpa**, **código legível** e **propósito real** — e é isso que busco em tudo que construo.
+Somente um entusiasta descobrindo o caminho da perdição em python em IA, se tornando o que muitos programadores não desejam para seu pior inimigo - Um Vibe Coding
 
 ---
 
