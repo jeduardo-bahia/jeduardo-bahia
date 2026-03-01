@@ -10,7 +10,7 @@
 
 ## 🧠 Sobre mim
 
-Somente um entusiasta descobrindo o caminho da perdição em python em IA, se tornando o que muitos programadores não desejam para seu pior inimigo - Um Vibe Coding
+Somente um entusiasta descobrindo o caminho da perdição em python e IA, se tornando o que muitos programadores não desejam para seu pior inimigo - Um Vibe Coding
 
 ---
 
