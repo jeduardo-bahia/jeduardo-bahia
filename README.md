@@ -16,7 +16,7 @@ Somente um entusiasta descobrindo o caminho da perdição em python e IA, se tor
 
 ## 🚀 Projeto em destaque
 
-### 🎙️ [Vivian AI](https://github.com/jeduardo.bahia/Vivian-Ai)
+### 🎙️ [Vivian AI](https://github.com/jeduardo-bahia/Vivian-Ai)
 > Assistente virtual por voz — modular, open-source e com personalidade própria.
 
 Vivian foi projetada para ser **direta, objetiva e natural**. Integra:
